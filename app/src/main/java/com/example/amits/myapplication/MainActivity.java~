@@ -28,7 +28,6 @@ public class MainActivity extends ActionBarActivity {
     private int backwardTime = 5000;
     private SeekBar seekbar;
     private TextView tx1,tx2,tx3;
-    private String test = "";
 
     public static int oneTimeOnly = 0;
     @Override
